@@ -12,7 +12,7 @@ Laravel Sail と Docker を使って、Tutorial 9〜10 のハンズオンで使�
 
 ## 学んだこと
 - Dockerを使用しLaravelの環境構築を行った。
-- 
+- phpMyAdminをcompose.ymlの中に追加した
 
 ## 動作確認
 -　http://localhostでLaravelのウェルカムページを表示
